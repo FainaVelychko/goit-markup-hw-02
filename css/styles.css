@@ -1,0 +1,99 @@
+/* main colors 
+#F4F4FD grey background and text
+#E7E9FC borders
+#4D5AE5 accent color
+#2E2F42 title text + dark background
+#434455 description text
+#FFFFFF light background
+*/
+
+body {
+  background-color: #ffffff;
+  color: #434455;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: #2e2f42;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+ul {
+  list-style-type: none;
+}
+
+.logo {
+  font-family: Raleway;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 1.16667;
+  letter-spacing: 0.54px;
+  text-transform: uppercase;
+  color: #4d5ae5;
+}
+.logo-dark {
+  color: #2e2f42;
+}
+.logo-light {
+  color: #f4f4fd;
+}
+.nav-list {
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.32px;
+  color: #2e2f42;
+}
+
+.header-list {
+}
+.hero-section {
+}
+.hero-title {
+}
+.hero-button {
+}
+.features-section {
+}
+.hidden-title {
+}
+.features-list {
+}
+.features-title {
+}
+.features-text {
+}
+.team-section {
+}
+.section-title {
+}
+.team-list {
+}
+.team-img {
+}
+.team-name {
+}
+.team-text {
+}
+.portfolio-section {
+}
+.portfolio-list {
+}
+.portfolio-img {
+}
+.portfolio-name {
+}
+.portfolio-text {
+}
+.footer {
+}
+.footer-text {
+}
